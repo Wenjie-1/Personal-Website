@@ -1,0 +1,95 @@
+﻿.Skill{
+    font-size: 10px;
+    background-color: black;
+    padding-top: 0;
+    color: white;
+    float: left;
+    height: 110vh;
+    width: 550px;
+}
+h1{
+    text-align:center;
+}
+.Skill1{
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.Skill1:hover{
+    transform:scale(1.1);
+}
+.Skill2{
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+    .Skill2:hover {
+        transform: scale(1.1);
+    }
+.Skill3{
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.Skill3:hover {
+    transform: scale(1.1);
+}
+    .Skill4 {
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+
+}
+.Skill4:hover {
+    transform: scale(1.1);
+}
+
+.Skill5{
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.Skill5:hover {
+    transform: scale(1.1);
+}
+.Skill6{
+    border: 3px solid white;
+    vertical-align: middle;
+    width: 490px;
+    border-radius: 10px;
+    border-style: dashed;
+    transition: transform .5s;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.Skill6:hover {
+    transform: scale(1.1);
+}
+img {
+    margin: 120px;
+}
